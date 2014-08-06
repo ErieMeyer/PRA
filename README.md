@@ -1,7 +1,6 @@
 PRA
 ===
 
-The Paperwork Reduction Reduction Act could be much better. Fork the sections and submit pull requests to make it better.
 
 
 --
